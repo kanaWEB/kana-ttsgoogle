@@ -1,9 +1,9 @@
 <?php
-$datas[] = [
+$data[] = [
 			"text" => "google",
 			"value" => "google"
 			];
-$datas[] = [
+$data[] = [
 			"text" => "espeak",
 			"value" => "espeak"
 			];

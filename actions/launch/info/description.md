@@ -1,1 +1,1 @@
-Launch an MP3 from the folder "sounds"
+Make your Raspberry Pi speaks (require speakers or hdmi connected to a TV)

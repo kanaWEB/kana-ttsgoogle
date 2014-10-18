@@ -1,1 +1,1 @@
-Lance un MP3 du dossier sons
+Faire parler votre Raspberry Pi (nécessite une baffe / d'être connecté à une télé en HDMI)
