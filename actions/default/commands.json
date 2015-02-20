@@ -1,0 +1,15 @@
+{
+   "default" : {
+      "args" : {
+         "lang" : {
+            "modifier" : "Prefix",
+            "noquotes" : true,
+            "prefix" : "-l ",
+            "type" : "Core"
+         },
+         "text" : {}
+      },
+      "command" : "ttsgoogle",
+      "usage" : "ttsgoogle -l lang text"
+   }
+}

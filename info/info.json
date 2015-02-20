@@ -1,0 +1,13 @@
+{
+   "description" : "Vocal notification using internet / google services
+(Warning all sentences said by this plugin is sent to Google)",
+   "name" : "Vocal notifications (google)",
+   "tags" : {
+      "voice" : {},
+      "notification" : {},
+      "tts" : {},
+      "google" : {},
+      "ttsgoogle" : {}
+   },
+   "type" : "notification"
+}
