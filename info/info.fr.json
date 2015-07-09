@@ -1,5 +1,5 @@
 {
-   "description" : "Notifications vocales utilisant les services google (Attention: Toutes les phrases dictés par ce plugin sont envoyés à Google) Nécessite une connexion internet",
+   "description" : "Notifications vocales utilisant les API de Google",
    "name" : "Notifications vocales (google)",
    "tags" : {
       "voice" : {},

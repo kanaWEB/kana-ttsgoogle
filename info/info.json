@@ -1,6 +1,5 @@
 {
-   "description" : "Vocal notification using internet / google services
-(Warning all sentences said by this plugin is sent to Google)",
+"description" : "Vocal notification using Google API",
    "name" : "Vocal notifications (google)",
    "tags" : {
       "voice" : {},

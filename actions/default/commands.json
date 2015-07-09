@@ -9,7 +9,7 @@
          },
          "text" : {}
       },
-      "command" : "ttsgoogle",
+      "command" : "/opt/piget/tts/ttsGoogle",
       "usage" : "ttsgoogle -l lang text"
    }
 }
